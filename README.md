@@ -22,6 +22,6 @@
 
 </div><br/>
 
-`Projeto em progresso: https://lessonprojectphp.000webhostapp.com`
+`Projeto em progresso:` https://lessonprojectphp.000webhostapp.com
 
-`Portfólio de desenvolvedor: https://akiojapa.github.io/portfolio-akio/`
+`Portfólio de desenvolvedor:` https://akiojapa.github.io/portfolio-akio/
