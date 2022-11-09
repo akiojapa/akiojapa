@@ -1,5 +1,5 @@
 
-### Olá! Sou o Akio Andrei Matera ✌️
+### Olá! Sou o Akio Andrei Marubayashi Matera ✌️
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akio-andrei-3a483b209/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akioandrei/)
